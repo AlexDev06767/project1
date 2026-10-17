@@ -9,3 +9,4 @@ for elem in files:
         set_png.add(elem)
 for elem in sorted(set_png):
     print(elem,end=' ')
+#мне сейчас плохо
